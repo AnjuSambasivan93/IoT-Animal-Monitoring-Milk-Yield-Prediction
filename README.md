@@ -139,7 +139,7 @@ This also indicates that the four available predictors do not explain all variat
 Future improvements could include:
 
 - Collecting data from more animals over longer periods
-- Adding animal-specific characteristics
+- Animal age, breed and health information - Adding animal-specific characteristics
 - Adding environmental sensor data
 - Adding behavioural and activity measurements
 - Including previous milk-production measurements
